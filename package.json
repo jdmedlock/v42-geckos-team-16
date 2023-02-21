@@ -54,7 +54,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
+  "rules": {
+    "no-unused-vars": "off",
+    "jsx-a11y/alt-text": "off"
   }
 }
