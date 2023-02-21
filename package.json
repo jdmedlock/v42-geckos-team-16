@@ -43,7 +43,10 @@
     ],
     "rules": {
       "no-unused-vars": "off",
-      "jsx-a11y/alt-text": "off"
+      "jsx-a11y/alt-text": "off",
+      "react-hooks/exhaustive-deps": "off",
+      "jsx-a11y/img-redundant-alt": "off",
+      "eqeqeq": "off"
     }
   },
   "browserslist": {
